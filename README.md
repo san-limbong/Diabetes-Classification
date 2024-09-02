@@ -20,10 +20,10 @@ Dalam proyek ini, kami bertujuan untuk menerapkan model klasifikasi menggunakan 
 
 ### Problem Statements
 Berdasarkan latar belakang di atas, berikut akan dijabarkan pokok permasalahan yang dibahas dalam proyek sebagai berikut.
-- Bagaimana mengembangkan model prediksi yang dapat memprediksi kemungkinan seseorang mengidap diabetes?
+- Bagaimana mengembangkan model yang dapat mengklasifikasikan kemungkinan seseorang mengidap diabetes?
 
 ### Goals
-- Mengembangkan model prediksi yang dapat memprediksi kemungkinan seseorang mengidap diabetes
+- Mengembangkan model yang dapat mengklasifikasikan kemungkinan seseorang mengidap diabetes
 
 
 
